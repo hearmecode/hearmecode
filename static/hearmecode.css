@@ -1,0 +1,36 @@
+* {
+    font-family: 'PT Sans Narrow', 'sans-serif';
+    font-size: 18px;
+}
+
+.hmc_circleborder {
+    border: solid 12px #30C0B0;
+}
+
+.border-hover {
+      border: solid 3px #fff;
+}
+
+.border-hover:hover {
+    border: solid 3px #30C0B0;
+}
+
+p.indent {
+    text-indent: 1.5em;
+}
+
+.circle-button {
+    background-color: #30C0B0;
+    margin: 13px 5px;
+    border-radius: 50%;
+    font-size: 24px;
+    word-wrap: break-word;
+    height: 150px;
+    width: 150px;
+    padding: 15px 5px;
+    border: 0;
+}
+
+.headerlink {
+    color: #333;
+}
