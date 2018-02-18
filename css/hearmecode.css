@@ -147,7 +147,12 @@ p {
     .col-lg-4 {
         width: 33.33333333%
     }
-
+    .col-lg-10 {
+        width: 83.33333333%;
+    }
+    .col-lg-offset-1 {
+        margin-left: 8.33333333%;
+    }
 }
 
 .row {
