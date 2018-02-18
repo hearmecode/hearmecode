@@ -150,6 +150,15 @@ p {
 
 }
 
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.text-right {
+    text-align: right;
+}
+
 /* My custom CSS */
 
 * {
