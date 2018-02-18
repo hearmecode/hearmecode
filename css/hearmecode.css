@@ -118,7 +118,7 @@ p {
     margin: 0 0 10px
 }
 
-.container-fluid {
+.container-fluid, .container {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
